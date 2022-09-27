@@ -4,6 +4,8 @@
 
 This is an exploratory investigation into wielding the power of Neural Networks in order to perform super resolution on EO products.
 
+This implementation is constructed using Pytorch.
+
 For information on the potential of this method, please read the following paper:
 https://arxiv.org/abs/1609.04802
 
