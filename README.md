@@ -43,4 +43,4 @@ From left: Original High Resolution DTM image (upsampled to 512), Low resolution
 ![Figure 3 - Epoch Eighty-nine](https://user-images.githubusercontent.com/26202037/192792313-7aaf1e45-3a87-4480-9a38-ca762e7fda96.png)
 *Figure 3. Epoch eighty-nine*
 
-
+Consequently, better results are invariably produced by increasing the epoch count. However, this adds considerable time to the processing chain.
