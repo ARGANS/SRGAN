@@ -32,7 +32,7 @@ Learning rate = 0.00008
 
 Hr width and height = 512 (upsampling by 2)
 
-From left: Original High Resolution image (upsampled to 512), Low resolution image (512 downsampled by 4), Generated Image
+From left: Original High Resolution DTM image (upsampled to 512), Low resolution image (512 downsampled by 4), Generated Image
 
 ![Figure 1 - Epoch One](https://user-images.githubusercontent.com/26202037/192791012-03eb01da-6815-4458-8407-dae8ea374804.png)
 *Figure 1. Epoch one*
