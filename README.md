@@ -41,6 +41,6 @@ From left: Original High Resolution image (upsampled to 512), Low resolution ima
 *Figure 2. Epoch forty-four*
 
 ![Figure 3 - Epoch Eighty-nine](https://user-images.githubusercontent.com/26202037/192792313-7aaf1e45-3a87-4480-9a38-ca762e7fda96.png)
-*Figure 3. Epoch Eighty-nine*
+*Figure 3. Epoch eighty-nine*
 
 
