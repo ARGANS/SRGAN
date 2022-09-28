@@ -44,3 +44,15 @@ From left: Original High Resolution DTM image (upsampled to 512), Low resolution
 *Figure 3. Epoch eighty-nine*
 
 Consequently, better results are invariably produced by increasing the epoch count. However, this adds considerable time to the processing chain.
+
+### Initial suggestions for improvements
+
+1. Locate through literature and confirm the most appropriate loss function to use that is applicable to the type of the input DTM dataset.
+2. Consider adding noise to the input dataset after the generator has spooled up.
+
+
+### Example of 'end goal' for the GAN processor
+
+Please see this paper for what would be an ideal end. Resolving through to upsample from 4x4 to 1024x1024.
+
+https://arxiv.org/pdf/1903.06048.pdf
