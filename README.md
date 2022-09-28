@@ -49,6 +49,7 @@ Consequently, better results are invariably produced by increasing the epoch cou
 
 1. Locate through literature and confirm the most appropriate loss function to use that is applicable to the type of the input DTM dataset.
 2. Consider adding noise to the input dataset after the generator has spooled up.
+3. Experiment to locate the optimum initial start parameters - i.e., learning rate, decay rate... etc.
 
 
 ### Example of 'end goal' for the GAN processor
