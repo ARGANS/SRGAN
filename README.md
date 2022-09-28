@@ -28,13 +28,16 @@ Batch size = 16
 Learning rate = 0.00008
 Hr width and height = 512 (upsampling by 2)
 
-![image](https://user-images.githubusercontent.com/26202037/192789924-39050ed1-f8d5-460a-809a-91a5c6f069da.png)
+![Figure 1 - Epoch One](https://user-images.githubusercontent.com/26202037/192791012-03eb01da-6815-4458-8407-dae8ea374804.png)
+
 #### Figure 1. Epoch one
 
-![image](https://user-images.githubusercontent.com/26202037/192790027-79c6158a-3714-4bab-b829-5f3c095fb314.png)
+![Figure 2 - Epoch forty-four](https://user-images.githubusercontent.com/26202037/192792271-232263a2-39e3-40be-83dd-7309cb0a7ef3.png)
+
 #### Figure 2. Epoch forty-four
 
-![image](https://user-images.githubusercontent.com/26202037/192790167-840016d8-0590-4b2e-8eef-d61c30917e23.png)
+![Figure 3 - Epoch Eighty-nine](https://user-images.githubusercontent.com/26202037/192792313-7aaf1e45-3a87-4480-9a38-ca762e7fda96.png)
+
 #### Figure 3. Epoch Eighty-nine
 
 
