@@ -23,10 +23,16 @@ The input DTM has been split into 24 constituents, and the GAN interative proces
 The following figures showcase the evolution of the iterative learning capability of GANs, applied to attempting to super-resolve a Digital Terrain Model (DTM). The original DTM was split into 24 sub rasters of 1500x2250 pixels. Then, on the first split raster (0_0), the raster was fractured again into 54 further tiles of 256x256 pixels.
 
 With the following settings applied:
+
 Epochs = 100
+
 Batch size = 16
+
 Learning rate = 0.00008
+
 Hr width and height = 512 (upsampling by 2)
+
+Left: Original High Resolution image (upsampled to 512), Low resolution image downsampled by 4, Generated Image
 
 ![Figure 1 - Epoch One](https://user-images.githubusercontent.com/26202037/192791012-03eb01da-6815-4458-8407-dae8ea374804.png)
 
