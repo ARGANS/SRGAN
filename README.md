@@ -58,7 +58,7 @@ A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0
 
 Figure 4. Epoch 94 for learning rate 0.00008
 
-![Learning rate 0.0002](https://user-images.githubusercontent.com/26202037/192984938-87f0b5a7-9cbc-486b-83ea-c0f22fcbf479.png)
+![Learning rate 0.0002](https://user-images.githubusercontent.com/26202037/192985235-5f58671b-d6ad-4a80-88b3-f2f0fb34af06.png)
 
 Figure 5. Epoch 94 for learning rate 0.0002
 
