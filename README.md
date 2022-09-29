@@ -51,6 +51,18 @@ Consequently, better results are invariably produced by increasing the epoch cou
 2. Consider adding noise to the input dataset after the generator has spooled up.
 3. Experiment to locate the optimum initial start parameters - i.e., learning rate, decay rate... etc.
 
+#### III. Optimal Parameters
+A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0.00008 value.
+
+![Learning rate 0.00008](https://user-images.githubusercontent.com/26202037/192984644-d6a87be7-efab-4d7e-a4a2-4c8162f01d59.png)
+Figure 4. Epoch 94 for learning rate 0.00008
+
+![Learning rate 0.0002](https://user-images.githubusercontent.com/26202037/192984938-87f0b5a7-9cbc-486b-83ea-c0f22fcbf479.png)
+Figure 5. Epoch 94 for learning rate 0.0002
+
+
+
+
 
 ### Example of 'end goal' for the GAN processor
 
