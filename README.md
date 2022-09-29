@@ -55,9 +55,11 @@ Consequently, better results are invariably produced by increasing the epoch cou
 A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0.00008 value.
 
 ![Learning rate 0.00008](https://user-images.githubusercontent.com/26202037/192984644-d6a87be7-efab-4d7e-a4a2-4c8162f01d59.png)
+
 *Figure 4. Epoch 94 for learning rate 0.00008*
 
 ![Learning rate 0.0002](https://user-images.githubusercontent.com/26202037/192985235-5f58671b-d6ad-4a80-88b3-f2f0fb34af06.png)
+
 *Figure 5. Epoch 94 for learning rate 0.0002*
 
 
