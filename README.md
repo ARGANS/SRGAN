@@ -52,7 +52,7 @@ Consequently, better results are invariably produced by increasing the epoch cou
 3. Experiment to locate the optimum initial start parameters - i.e., learning rate, decay rate... etc.
 
 #### III. Optimal Parameters
-A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0.00008 value.
+A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0.00008 value. The end result for a higher learning rate would best be described as more 'aggressive'.
 
 ![Learning rate 0.00008](https://user-images.githubusercontent.com/26202037/192984644-d6a87be7-efab-4d7e-a4a2-4c8162f01d59.png)
 
