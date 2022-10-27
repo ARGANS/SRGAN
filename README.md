@@ -53,7 +53,8 @@ A separate processing run, processed on the new machine, Turing, using 128x128 p
 ![Figure 5 - Epoch 1000](https://user-images.githubusercontent.com/26202037/198273370-47637f19-8bf7-43b1-bc06-f9f04fe86636.png)
 *Figure 5. Epoch 1000.*
 
-![Figure 6 - Epoch 2000](https://user-images.githubusercontent.com/26202037/198273456-08428624-cca1-47c8-96ef-23d457c091df.png)
+![Figure 6 - Epoch 2000](https://user-images.githubusercontent.com/26202037/198334992-70d4385e-7c55-4238-b3ec-bb4f4ff9ba01.png)
+
 *Figure 6. Epoch 2000.*
 
 
