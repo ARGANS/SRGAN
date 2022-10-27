@@ -45,6 +45,18 @@ From left: Original High Resolution DTM image (upsampled to 512), Low resolution
 
 Consequently, better results are invariably produced by increasing the epoch count. However, this adds considerable time to the processing chain. Within the paper by Demiray et al. 2020 (https://arxiv.org/pdf/2004.04788.pdf), they showcase examples utilising epoch numbers in excess of a thousand to produce their high-resolution DEM.
 
+A separate processing run, processed on the new machine, Turing, using 128x128 pixels and a batch size of 48. The Learning rate was set at 2, with a decay selection of epoch 1000:
+
+![Figure 4 - Epoch One](https://user-images.githubusercontent.com/26202037/198273296-5a6cf1d8-7054-49bf-b1ec-5a5bfb5a1fe3.png)
+*Figure 4. Epoch one.*
+
+![Figure 5 - Epoch 1000](https://user-images.githubusercontent.com/26202037/198273370-47637f19-8bf7-43b1-bc06-f9f04fe86636.png)
+*Figure 5. Epoch 1000.*
+
+![Figure 6 - Epoch 2000](https://user-images.githubusercontent.com/26202037/198273456-08428624-cca1-47c8-96ef-23d457c091df.png)
+*Figure 6. Epoch 2000.*
+
+
 ### Initial suggestions for improvements
 
 1. Locate through literature and confirm the most appropriate loss function to use that is applicable to the type of the input DTM dataset.
