@@ -47,14 +47,13 @@ Consequently, better results are invariably produced by increasing the epoch cou
 
 A separate processing run, processed on the new machine, Turing, using 128x128 pixels and a batch size of 48. The Learning rate was set at 2, with a decay selection of epoch 1000:
 
-![Figure 4 - Epoch One](https://user-images.githubusercontent.com/26202037/198273296-5a6cf1d8-7054-49bf-b1ec-5a5bfb5a1fe3.png)
+![Figure 4 - Epoch One](https://user-images.githubusercontent.com/26202037/198335569-44c9c789-ed0d-44ae-954c-3e1f9c0d56ee.png)
 *Figure 4. Epoch one.*
 
-![Figure 5 - Epoch 1000](https://user-images.githubusercontent.com/26202037/198273370-47637f19-8bf7-43b1-bc06-f9f04fe86636.png)
-*Figure 5. Epoch 1000.*
+![Figure 5 - Epoch 1000](https://user-images.githubusercontent.com/26202037/198335350-8e415a72-149c-49ce-a663-4ee3197b2936.png)
+*Figure 5 - Epoch 1000.*
 
 ![Figure 6 - Epoch 2000](https://user-images.githubusercontent.com/26202037/198334992-70d4385e-7c55-4238-b3ec-bb4f4ff9ba01.png)
-
 *Figure 6. Epoch 2000.*
 
 
