@@ -82,6 +82,7 @@ Thus, an experiment was run on test samples of a trivially low pixel count (16x1
 ![Compariative image](https://user-images.githubusercontent.com/26202037/200549364-5df50118-c90f-46c2-9f34-0923f8f5184b.png)
 *Figure 6 - Visible improvement in resolution upsampling.*
 
+Results showcased in Figure 6 are relatively self-explanatory - the highlighted parts (A and B), illustrate noticable differences between the regular upsampled "high resolution" image (A1 & B1), with the SRGAN image (A2 & B2).
 
 
 ### Example of 'end goal' for the GAN processor
