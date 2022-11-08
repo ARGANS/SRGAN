@@ -79,6 +79,10 @@ A learning rate of 0.0002 has a noticable difference over the standard Pytorch 0
 In previous examples, we have seen an increase in 'absolute' spatial resolution, with the caveat of minute detail loss (i.e., Figure 3).
 Thus, an experiment was run on test samples of a trivially low pixel count (16x16 pixels), with the view to obscuring detail from the neural network. Once new images have been generated from the neural network, it is envisaged the underlying image can be reconstructed. Ergo, effectively recreating a remote sensing [_camera obscura_](https://en.wikipedia.org/wiki/Camera_obscura).
 
+![Compariative image](https://user-images.githubusercontent.com/26202037/200549364-5df50118-c90f-46c2-9f34-0923f8f5184b.png)
+*Figure 6 - Visible improvement in resolution upsampling.*
+
+
 
 ### Example of 'end goal' for the GAN processor
 
