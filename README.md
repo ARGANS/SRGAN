@@ -1,6 +1,6 @@
 # SRGAN - Super Resolution Generative Adversarial Network
 ### Exploring Generative Adversarial Networks for EO. 
-#### Initial commit made 2022-09-27
+#### Initial commit made 2022-09-27 by Benjamin Allen
 
 This is an exploratory investigation into wielding the power of Neural Networks in order to perform super resolution on EO products.
 
